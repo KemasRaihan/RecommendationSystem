@@ -1,0 +1,1501 @@
+sessionID, intentID, intent, target
+1,0,AI beginners,1
+1,1,AI Intermediate,1
+1,2,Cloud beginners,0
+1,3,Cloud intermediate,0
+1,4,Cyber Security beginners,0
+1,5,Cyber Security intermediate,0
+1,6,Design Thinking beginners,0
+1,7,Design Thinking intermediate,1
+1,8,AI credentials,1
+1,9,Cloud credentials,0
+1,10,Cyber Security credentials,1
+1,11,Design Thinking credentials,1
+1,12,AI Careers,1
+1,13,Cloud Careers,0
+1,14,Cyber Security Careers,1
+2,0,AI beginners,0
+2,1,AI Intermediate,0
+2,2,Cloud beginners,0
+2,3,Cloud intermediate,0
+2,4,Cyber Security beginners,1
+2,5,Cyber Security intermediate,1
+2,6,Design Thinking beginners,1
+2,7,Design Thinking intermediate,0
+2,8,AI credentials,1
+2,9,Cloud credentials,1
+2,10,Cyber Security credentials,0
+2,11,Design Thinking credentials,1
+2,12,AI Careers,1
+2,13,Cloud Careers,0
+2,14,Cyber Security Careers,0
+3,0,AI beginners,1
+3,1,AI Intermediate,0
+3,2,Cloud beginners,1
+3,3,Cloud intermediate,1
+3,4,Cyber Security beginners,0
+3,5,Cyber Security intermediate,0
+3,6,Design Thinking beginners,1
+3,7,Design Thinking intermediate,1
+3,8,AI credentials,1
+3,9,Cloud credentials,0
+3,10,Cyber Security credentials,1
+3,11,Design Thinking credentials,0
+3,12,AI Careers,1
+3,13,Cloud Careers,1
+3,14,Cyber Security Careers,0
+4,0,AI beginners,1
+4,1,AI Intermediate,1
+4,2,Cloud beginners,0
+4,3,Cloud intermediate,0
+4,4,Cyber Security beginners,1
+4,5,Cyber Security intermediate,1
+4,6,Design Thinking beginners,0
+4,7,Design Thinking intermediate,1
+4,8,AI credentials,1
+4,9,Cloud credentials,0
+4,10,Cyber Security credentials,0
+4,11,Design Thinking credentials,0
+4,12,AI Careers,1
+4,13,Cloud Careers,0
+4,14,Cyber Security Careers,0
+5,0,AI beginners,0
+5,1,AI Intermediate,1
+5,2,Cloud beginners,0
+5,3,Cloud intermediate,1
+5,4,Cyber Security beginners,0
+5,5,Cyber Security intermediate,1
+5,6,Design Thinking beginners,1
+5,7,Design Thinking intermediate,0
+5,8,AI credentials,0
+5,9,Cloud credentials,1
+5,10,Cyber Security credentials,0
+5,11,Design Thinking credentials,0
+5,12,AI Careers,0
+5,13,Cloud Careers,0
+5,14,Cyber Security Careers,0
+6,0,AI beginners,0
+6,1,AI Intermediate,0
+6,2,Cloud beginners,0
+6,3,Cloud intermediate,0
+6,4,Cyber Security beginners,0
+6,5,Cyber Security intermediate,1
+6,6,Design Thinking beginners,0
+6,7,Design Thinking intermediate,0
+6,8,AI credentials,0
+6,9,Cloud credentials,1
+6,10,Cyber Security credentials,1
+6,11,Design Thinking credentials,0
+6,12,AI Careers,0
+6,13,Cloud Careers,1
+6,14,Cyber Security Careers,1
+7,0,AI beginners,1
+7,1,AI Intermediate,0
+7,2,Cloud beginners,1
+7,3,Cloud intermediate,1
+7,4,Cyber Security beginners,1
+7,5,Cyber Security intermediate,0
+7,6,Design Thinking beginners,1
+7,7,Design Thinking intermediate,1
+7,8,AI credentials,1
+7,9,Cloud credentials,1
+7,10,Cyber Security credentials,1
+7,11,Design Thinking credentials,0
+7,12,AI Careers,1
+7,13,Cloud Careers,0
+7,14,Cyber Security Careers,0
+8,0,AI beginners,0
+8,1,AI Intermediate,1
+8,2,Cloud beginners,1
+8,3,Cloud intermediate,1
+8,4,Cyber Security beginners,0
+8,5,Cyber Security intermediate,0
+8,6,Design Thinking beginners,1
+8,7,Design Thinking intermediate,1
+8,8,AI credentials,1
+8,9,Cloud credentials,1
+8,10,Cyber Security credentials,1
+8,11,Design Thinking credentials,0
+8,12,AI Careers,1
+8,13,Cloud Careers,0
+8,14,Cyber Security Careers,0
+9,0,AI beginners,1
+9,1,AI Intermediate,0
+9,2,Cloud beginners,0
+9,3,Cloud intermediate,1
+9,4,Cyber Security beginners,1
+9,5,Cyber Security intermediate,1
+9,6,Design Thinking beginners,1
+9,7,Design Thinking intermediate,0
+9,8,AI credentials,0
+9,9,Cloud credentials,1
+9,10,Cyber Security credentials,1
+9,11,Design Thinking credentials,0
+9,12,AI Careers,0
+9,13,Cloud Careers,1
+9,14,Cyber Security Careers,1
+10,0,AI beginners,0
+10,1,AI Intermediate,1
+10,2,Cloud beginners,0
+10,3,Cloud intermediate,1
+10,4,Cyber Security beginners,0
+10,5,Cyber Security intermediate,1
+10,6,Design Thinking beginners,0
+10,7,Design Thinking intermediate,1
+10,8,AI credentials,0
+10,9,Cloud credentials,1
+10,10,Cyber Security credentials,1
+10,11,Design Thinking credentials,0
+10,12,AI Careers,0
+10,13,Cloud Careers,0
+10,14,Cyber Security Careers,1
+11,0,AI beginners,0
+11,1,AI Intermediate,0
+11,2,Cloud beginners,0
+11,3,Cloud intermediate,1
+11,4,Cyber Security beginners,1
+11,5,Cyber Security intermediate,0
+11,6,Design Thinking beginners,1
+11,7,Design Thinking intermediate,0
+11,8,AI credentials,1
+11,9,Cloud credentials,0
+11,10,Cyber Security credentials,0
+11,11,Design Thinking credentials,1
+11,12,AI Careers,0
+11,13,Cloud Careers,1
+11,14,Cyber Security Careers,0
+12,0,AI beginners,0
+12,1,AI Intermediate,0
+12,2,Cloud beginners,0
+12,3,Cloud intermediate,0
+12,4,Cyber Security beginners,1
+12,5,Cyber Security intermediate,1
+12,6,Design Thinking beginners,0
+12,7,Design Thinking intermediate,1
+12,8,AI credentials,0
+12,9,Cloud credentials,0
+12,10,Cyber Security credentials,0
+12,11,Design Thinking credentials,0
+12,12,AI Careers,0
+12,13,Cloud Careers,0
+12,14,Cyber Security Careers,1
+13,0,AI beginners,1
+13,1,AI Intermediate,1
+13,2,Cloud beginners,0
+13,3,Cloud intermediate,1
+13,4,Cyber Security beginners,0
+13,5,Cyber Security intermediate,0
+13,6,Design Thinking beginners,0
+13,7,Design Thinking intermediate,0
+13,8,AI credentials,1
+13,9,Cloud credentials,0
+13,10,Cyber Security credentials,0
+13,11,Design Thinking credentials,0
+13,12,AI Careers,1
+13,13,Cloud Careers,1
+13,14,Cyber Security Careers,1
+14,0,AI beginners,0
+14,1,AI Intermediate,0
+14,2,Cloud beginners,0
+14,3,Cloud intermediate,0
+14,4,Cyber Security beginners,0
+14,5,Cyber Security intermediate,0
+14,6,Design Thinking beginners,0
+14,7,Design Thinking intermediate,0
+14,8,AI credentials,0
+14,9,Cloud credentials,0
+14,10,Cyber Security credentials,0
+14,11,Design Thinking credentials,0
+14,12,AI Careers,0
+14,13,Cloud Careers,1
+14,14,Cyber Security Careers,0
+15,0,AI beginners,0
+15,1,AI Intermediate,1
+15,2,Cloud beginners,1
+15,3,Cloud intermediate,1
+15,4,Cyber Security beginners,0
+15,5,Cyber Security intermediate,0
+15,6,Design Thinking beginners,0
+15,7,Design Thinking intermediate,0
+15,8,AI credentials,0
+15,9,Cloud credentials,0
+15,10,Cyber Security credentials,1
+15,11,Design Thinking credentials,1
+15,12,AI Careers,0
+15,13,Cloud Careers,1
+15,14,Cyber Security Careers,0
+16,0,AI beginners,0
+16,1,AI Intermediate,1
+16,2,Cloud beginners,0
+16,3,Cloud intermediate,1
+16,4,Cyber Security beginners,0
+16,5,Cyber Security intermediate,0
+16,6,Design Thinking beginners,1
+16,7,Design Thinking intermediate,1
+16,8,AI credentials,1
+16,9,Cloud credentials,0
+16,10,Cyber Security credentials,0
+16,11,Design Thinking credentials,0
+16,12,AI Careers,1
+16,13,Cloud Careers,1
+16,14,Cyber Security Careers,0
+17,0,AI beginners,0
+17,1,AI Intermediate,0
+17,2,Cloud beginners,0
+17,3,Cloud intermediate,1
+17,4,Cyber Security beginners,1
+17,5,Cyber Security intermediate,0
+17,6,Design Thinking beginners,0
+17,7,Design Thinking intermediate,0
+17,8,AI credentials,1
+17,9,Cloud credentials,1
+17,10,Cyber Security credentials,0
+17,11,Design Thinking credentials,1
+17,12,AI Careers,0
+17,13,Cloud Careers,1
+17,14,Cyber Security Careers,0
+18,0,AI beginners,0
+18,1,AI Intermediate,1
+18,2,Cloud beginners,1
+18,3,Cloud intermediate,1
+18,4,Cyber Security beginners,1
+18,5,Cyber Security intermediate,1
+18,6,Design Thinking beginners,0
+18,7,Design Thinking intermediate,1
+18,8,AI credentials,1
+18,9,Cloud credentials,0
+18,10,Cyber Security credentials,0
+18,11,Design Thinking credentials,1
+18,12,AI Careers,0
+18,13,Cloud Careers,1
+18,14,Cyber Security Careers,1
+19,0,AI beginners,0
+19,1,AI Intermediate,1
+19,2,Cloud beginners,1
+19,3,Cloud intermediate,0
+19,4,Cyber Security beginners,0
+19,5,Cyber Security intermediate,0
+19,6,Design Thinking beginners,1
+19,7,Design Thinking intermediate,1
+19,8,AI credentials,1
+19,9,Cloud credentials,1
+19,10,Cyber Security credentials,1
+19,11,Design Thinking credentials,0
+19,12,AI Careers,0
+19,13,Cloud Careers,0
+19,14,Cyber Security Careers,1
+20,0,AI beginners,1
+20,1,AI Intermediate,1
+20,2,Cloud beginners,0
+20,3,Cloud intermediate,1
+20,4,Cyber Security beginners,1
+20,5,Cyber Security intermediate,0
+20,6,Design Thinking beginners,1
+20,7,Design Thinking intermediate,1
+20,8,AI credentials,1
+20,9,Cloud credentials,1
+20,10,Cyber Security credentials,1
+20,11,Design Thinking credentials,1
+20,12,AI Careers,0
+20,13,Cloud Careers,1
+20,14,Cyber Security Careers,1
+21,0,AI beginners,0
+21,1,AI Intermediate,1
+21,2,Cloud beginners,1
+21,3,Cloud intermediate,0
+21,4,Cyber Security beginners,1
+21,5,Cyber Security intermediate,1
+21,6,Design Thinking beginners,0
+21,7,Design Thinking intermediate,0
+21,8,AI credentials,0
+21,9,Cloud credentials,0
+21,10,Cyber Security credentials,0
+21,11,Design Thinking credentials,0
+21,12,AI Careers,1
+21,13,Cloud Careers,1
+21,14,Cyber Security Careers,1
+22,0,AI beginners,0
+22,1,AI Intermediate,0
+22,2,Cloud beginners,0
+22,3,Cloud intermediate,0
+22,4,Cyber Security beginners,0
+22,5,Cyber Security intermediate,0
+22,6,Design Thinking beginners,1
+22,7,Design Thinking intermediate,0
+22,8,AI credentials,0
+22,9,Cloud credentials,1
+22,10,Cyber Security credentials,1
+22,11,Design Thinking credentials,1
+22,12,AI Careers,1
+22,13,Cloud Careers,1
+22,14,Cyber Security Careers,0
+23,0,AI beginners,1
+23,1,AI Intermediate,0
+23,2,Cloud beginners,0
+23,3,Cloud intermediate,1
+23,4,Cyber Security beginners,1
+23,5,Cyber Security intermediate,0
+23,6,Design Thinking beginners,0
+23,7,Design Thinking intermediate,1
+23,8,AI credentials,1
+23,9,Cloud credentials,1
+23,10,Cyber Security credentials,1
+23,11,Design Thinking credentials,0
+23,12,AI Careers,0
+23,13,Cloud Careers,0
+23,14,Cyber Security Careers,0
+24,0,AI beginners,1
+24,1,AI Intermediate,1
+24,2,Cloud beginners,0
+24,3,Cloud intermediate,1
+24,4,Cyber Security beginners,0
+24,5,Cyber Security intermediate,0
+24,6,Design Thinking beginners,0
+24,7,Design Thinking intermediate,0
+24,8,AI credentials,0
+24,9,Cloud credentials,0
+24,10,Cyber Security credentials,1
+24,11,Design Thinking credentials,1
+24,12,AI Careers,0
+24,13,Cloud Careers,1
+24,14,Cyber Security Careers,1
+25,0,AI beginners,0
+25,1,AI Intermediate,0
+25,2,Cloud beginners,0
+25,3,Cloud intermediate,1
+25,4,Cyber Security beginners,0
+25,5,Cyber Security intermediate,1
+25,6,Design Thinking beginners,0
+25,7,Design Thinking intermediate,0
+25,8,AI credentials,1
+25,9,Cloud credentials,1
+25,10,Cyber Security credentials,0
+25,11,Design Thinking credentials,1
+25,12,AI Careers,1
+25,13,Cloud Careers,0
+25,14,Cyber Security Careers,0
+26,0,AI beginners,1
+26,1,AI Intermediate,1
+26,2,Cloud beginners,1
+26,3,Cloud intermediate,0
+26,4,Cyber Security beginners,0
+26,5,Cyber Security intermediate,1
+26,6,Design Thinking beginners,0
+26,7,Design Thinking intermediate,0
+26,8,AI credentials,1
+26,9,Cloud credentials,0
+26,10,Cyber Security credentials,0
+26,11,Design Thinking credentials,0
+26,12,AI Careers,1
+26,13,Cloud Careers,1
+26,14,Cyber Security Careers,0
+27,0,AI beginners,1
+27,1,AI Intermediate,1
+27,2,Cloud beginners,0
+27,3,Cloud intermediate,1
+27,4,Cyber Security beginners,1
+27,5,Cyber Security intermediate,1
+27,6,Design Thinking beginners,1
+27,7,Design Thinking intermediate,0
+27,8,AI credentials,1
+27,9,Cloud credentials,0
+27,10,Cyber Security credentials,1
+27,11,Design Thinking credentials,0
+27,12,AI Careers,0
+27,13,Cloud Careers,0
+27,14,Cyber Security Careers,1
+28,0,AI beginners,1
+28,1,AI Intermediate,1
+28,2,Cloud beginners,0
+28,3,Cloud intermediate,1
+28,4,Cyber Security beginners,1
+28,5,Cyber Security intermediate,1
+28,6,Design Thinking beginners,1
+28,7,Design Thinking intermediate,0
+28,8,AI credentials,0
+28,9,Cloud credentials,0
+28,10,Cyber Security credentials,1
+28,11,Design Thinking credentials,1
+28,12,AI Careers,1
+28,13,Cloud Careers,1
+28,14,Cyber Security Careers,0
+29,0,AI beginners,1
+29,1,AI Intermediate,1
+29,2,Cloud beginners,1
+29,3,Cloud intermediate,0
+29,4,Cyber Security beginners,0
+29,5,Cyber Security intermediate,1
+29,6,Design Thinking beginners,0
+29,7,Design Thinking intermediate,0
+29,8,AI credentials,1
+29,9,Cloud credentials,1
+29,10,Cyber Security credentials,1
+29,11,Design Thinking credentials,1
+29,12,AI Careers,0
+29,13,Cloud Careers,0
+29,14,Cyber Security Careers,0
+30,0,AI beginners,0
+30,1,AI Intermediate,0
+30,2,Cloud beginners,1
+30,3,Cloud intermediate,1
+30,4,Cyber Security beginners,0
+30,5,Cyber Security intermediate,0
+30,6,Design Thinking beginners,0
+30,7,Design Thinking intermediate,0
+30,8,AI credentials,1
+30,9,Cloud credentials,1
+30,10,Cyber Security credentials,1
+30,11,Design Thinking credentials,1
+30,12,AI Careers,0
+30,13,Cloud Careers,0
+30,14,Cyber Security Careers,1
+31,0,AI beginners,1
+31,1,AI Intermediate,0
+31,2,Cloud beginners,0
+31,3,Cloud intermediate,1
+31,4,Cyber Security beginners,0
+31,5,Cyber Security intermediate,1
+31,6,Design Thinking beginners,0
+31,7,Design Thinking intermediate,1
+31,8,AI credentials,1
+31,9,Cloud credentials,0
+31,10,Cyber Security credentials,0
+31,11,Design Thinking credentials,0
+31,12,AI Careers,0
+31,13,Cloud Careers,0
+31,14,Cyber Security Careers,1
+32,0,AI beginners,0
+32,1,AI Intermediate,0
+32,2,Cloud beginners,0
+32,3,Cloud intermediate,0
+32,4,Cyber Security beginners,0
+32,5,Cyber Security intermediate,0
+32,6,Design Thinking beginners,1
+32,7,Design Thinking intermediate,1
+32,8,AI credentials,0
+32,9,Cloud credentials,1
+32,10,Cyber Security credentials,0
+32,11,Design Thinking credentials,1
+32,12,AI Careers,0
+32,13,Cloud Careers,0
+32,14,Cyber Security Careers,1
+33,0,AI beginners,0
+33,1,AI Intermediate,1
+33,2,Cloud beginners,1
+33,3,Cloud intermediate,1
+33,4,Cyber Security beginners,1
+33,5,Cyber Security intermediate,0
+33,6,Design Thinking beginners,0
+33,7,Design Thinking intermediate,0
+33,8,AI credentials,1
+33,9,Cloud credentials,1
+33,10,Cyber Security credentials,0
+33,11,Design Thinking credentials,0
+33,12,AI Careers,1
+33,13,Cloud Careers,1
+33,14,Cyber Security Careers,0
+34,0,AI beginners,1
+34,1,AI Intermediate,1
+34,2,Cloud beginners,0
+34,3,Cloud intermediate,1
+34,4,Cyber Security beginners,1
+34,5,Cyber Security intermediate,1
+34,6,Design Thinking beginners,0
+34,7,Design Thinking intermediate,0
+34,8,AI credentials,1
+34,9,Cloud credentials,0
+34,10,Cyber Security credentials,1
+34,11,Design Thinking credentials,0
+34,12,AI Careers,1
+34,13,Cloud Careers,0
+34,14,Cyber Security Careers,0
+35,0,AI beginners,1
+35,1,AI Intermediate,0
+35,2,Cloud beginners,0
+35,3,Cloud intermediate,1
+35,4,Cyber Security beginners,0
+35,5,Cyber Security intermediate,1
+35,6,Design Thinking beginners,1
+35,7,Design Thinking intermediate,0
+35,8,AI credentials,0
+35,9,Cloud credentials,1
+35,10,Cyber Security credentials,0
+35,11,Design Thinking credentials,1
+35,12,AI Careers,0
+35,13,Cloud Careers,0
+35,14,Cyber Security Careers,0
+36,0,AI beginners,0
+36,1,AI Intermediate,0
+36,2,Cloud beginners,1
+36,3,Cloud intermediate,0
+36,4,Cyber Security beginners,1
+36,5,Cyber Security intermediate,0
+36,6,Design Thinking beginners,1
+36,7,Design Thinking intermediate,1
+36,8,AI credentials,0
+36,9,Cloud credentials,0
+36,10,Cyber Security credentials,0
+36,11,Design Thinking credentials,1
+36,12,AI Careers,0
+36,13,Cloud Careers,1
+36,14,Cyber Security Careers,1
+37,0,AI beginners,0
+37,1,AI Intermediate,0
+37,2,Cloud beginners,1
+37,3,Cloud intermediate,0
+37,4,Cyber Security beginners,0
+37,5,Cyber Security intermediate,0
+37,6,Design Thinking beginners,0
+37,7,Design Thinking intermediate,0
+37,8,AI credentials,1
+37,9,Cloud credentials,1
+37,10,Cyber Security credentials,1
+37,11,Design Thinking credentials,0
+37,12,AI Careers,1
+37,13,Cloud Careers,0
+37,14,Cyber Security Careers,1
+38,0,AI beginners,0
+38,1,AI Intermediate,0
+38,2,Cloud beginners,0
+38,3,Cloud intermediate,0
+38,4,Cyber Security beginners,1
+38,5,Cyber Security intermediate,0
+38,6,Design Thinking beginners,0
+38,7,Design Thinking intermediate,1
+38,8,AI credentials,1
+38,9,Cloud credentials,0
+38,10,Cyber Security credentials,0
+38,11,Design Thinking credentials,1
+38,12,AI Careers,1
+38,13,Cloud Careers,1
+38,14,Cyber Security Careers,0
+39,0,AI beginners,1
+39,1,AI Intermediate,1
+39,2,Cloud beginners,1
+39,3,Cloud intermediate,0
+39,4,Cyber Security beginners,1
+39,5,Cyber Security intermediate,1
+39,6,Design Thinking beginners,0
+39,7,Design Thinking intermediate,1
+39,8,AI credentials,1
+39,9,Cloud credentials,0
+39,10,Cyber Security credentials,1
+39,11,Design Thinking credentials,1
+39,12,AI Careers,0
+39,13,Cloud Careers,1
+39,14,Cyber Security Careers,1
+40,0,AI beginners,0
+40,1,AI Intermediate,1
+40,2,Cloud beginners,0
+40,3,Cloud intermediate,1
+40,4,Cyber Security beginners,1
+40,5,Cyber Security intermediate,1
+40,6,Design Thinking beginners,1
+40,7,Design Thinking intermediate,1
+40,8,AI credentials,0
+40,9,Cloud credentials,0
+40,10,Cyber Security credentials,0
+40,11,Design Thinking credentials,0
+40,12,AI Careers,1
+40,13,Cloud Careers,1
+40,14,Cyber Security Careers,0
+41,0,AI beginners,0
+41,1,AI Intermediate,0
+41,2,Cloud beginners,0
+41,3,Cloud intermediate,1
+41,4,Cyber Security beginners,0
+41,5,Cyber Security intermediate,0
+41,6,Design Thinking beginners,1
+41,7,Design Thinking intermediate,1
+41,8,AI credentials,1
+41,9,Cloud credentials,0
+41,10,Cyber Security credentials,1
+41,11,Design Thinking credentials,0
+41,12,AI Careers,1
+41,13,Cloud Careers,0
+41,14,Cyber Security Careers,0
+42,0,AI beginners,1
+42,1,AI Intermediate,0
+42,2,Cloud beginners,1
+42,3,Cloud intermediate,0
+42,4,Cyber Security beginners,0
+42,5,Cyber Security intermediate,0
+42,6,Design Thinking beginners,1
+42,7,Design Thinking intermediate,1
+42,8,AI credentials,1
+42,9,Cloud credentials,1
+42,10,Cyber Security credentials,0
+42,11,Design Thinking credentials,0
+42,12,AI Careers,0
+42,13,Cloud Careers,0
+42,14,Cyber Security Careers,1
+43,0,AI beginners,0
+43,1,AI Intermediate,1
+43,2,Cloud beginners,0
+43,3,Cloud intermediate,0
+43,4,Cyber Security beginners,0
+43,5,Cyber Security intermediate,0
+43,6,Design Thinking beginners,0
+43,7,Design Thinking intermediate,0
+43,8,AI credentials,1
+43,9,Cloud credentials,1
+43,10,Cyber Security credentials,1
+43,11,Design Thinking credentials,1
+43,12,AI Careers,1
+43,13,Cloud Careers,0
+43,14,Cyber Security Careers,1
+44,0,AI beginners,1
+44,1,AI Intermediate,0
+44,2,Cloud beginners,1
+44,3,Cloud intermediate,0
+44,4,Cyber Security beginners,0
+44,5,Cyber Security intermediate,0
+44,6,Design Thinking beginners,1
+44,7,Design Thinking intermediate,0
+44,8,AI credentials,0
+44,9,Cloud credentials,1
+44,10,Cyber Security credentials,1
+44,11,Design Thinking credentials,0
+44,12,AI Careers,0
+44,13,Cloud Careers,1
+44,14,Cyber Security Careers,1
+45,0,AI beginners,1
+45,1,AI Intermediate,0
+45,2,Cloud beginners,0
+45,3,Cloud intermediate,0
+45,4,Cyber Security beginners,1
+45,5,Cyber Security intermediate,1
+45,6,Design Thinking beginners,0
+45,7,Design Thinking intermediate,1
+45,8,AI credentials,0
+45,9,Cloud credentials,1
+45,10,Cyber Security credentials,0
+45,11,Design Thinking credentials,0
+45,12,AI Careers,0
+45,13,Cloud Careers,0
+45,14,Cyber Security Careers,1
+46,0,AI beginners,1
+46,1,AI Intermediate,1
+46,2,Cloud beginners,0
+46,3,Cloud intermediate,0
+46,4,Cyber Security beginners,1
+46,5,Cyber Security intermediate,1
+46,6,Design Thinking beginners,1
+46,7,Design Thinking intermediate,0
+46,8,AI credentials,1
+46,9,Cloud credentials,0
+46,10,Cyber Security credentials,0
+46,11,Design Thinking credentials,1
+46,12,AI Careers,0
+46,13,Cloud Careers,0
+46,14,Cyber Security Careers,0
+47,0,AI beginners,0
+47,1,AI Intermediate,0
+47,2,Cloud beginners,0
+47,3,Cloud intermediate,1
+47,4,Cyber Security beginners,0
+47,5,Cyber Security intermediate,1
+47,6,Design Thinking beginners,1
+47,7,Design Thinking intermediate,1
+47,8,AI credentials,0
+47,9,Cloud credentials,1
+47,10,Cyber Security credentials,1
+47,11,Design Thinking credentials,0
+47,12,AI Careers,1
+47,13,Cloud Careers,0
+47,14,Cyber Security Careers,1
+48,0,AI beginners,0
+48,1,AI Intermediate,1
+48,2,Cloud beginners,1
+48,3,Cloud intermediate,1
+48,4,Cyber Security beginners,1
+48,5,Cyber Security intermediate,1
+48,6,Design Thinking beginners,1
+48,7,Design Thinking intermediate,1
+48,8,AI credentials,1
+48,9,Cloud credentials,1
+48,10,Cyber Security credentials,0
+48,11,Design Thinking credentials,0
+48,12,AI Careers,0
+48,13,Cloud Careers,0
+48,14,Cyber Security Careers,1
+49,0,AI beginners,0
+49,1,AI Intermediate,0
+49,2,Cloud beginners,1
+49,3,Cloud intermediate,1
+49,4,Cyber Security beginners,1
+49,5,Cyber Security intermediate,0
+49,6,Design Thinking beginners,1
+49,7,Design Thinking intermediate,1
+49,8,AI credentials,0
+49,9,Cloud credentials,0
+49,10,Cyber Security credentials,0
+49,11,Design Thinking credentials,0
+49,12,AI Careers,1
+49,13,Cloud Careers,1
+49,14,Cyber Security Careers,1
+50,0,AI beginners,1
+50,1,AI Intermediate,1
+50,2,Cloud beginners,1
+50,3,Cloud intermediate,0
+50,4,Cyber Security beginners,1
+50,5,Cyber Security intermediate,1
+50,6,Design Thinking beginners,0
+50,7,Design Thinking intermediate,1
+50,8,AI credentials,0
+50,9,Cloud credentials,0
+50,10,Cyber Security credentials,0
+50,11,Design Thinking credentials,0
+50,12,AI Careers,0
+50,13,Cloud Careers,1
+50,14,Cyber Security Careers,0
+51,0,AI beginners,1
+51,1,AI Intermediate,0
+51,2,Cloud beginners,0
+51,3,Cloud intermediate,0
+51,4,Cyber Security beginners,1
+51,5,Cyber Security intermediate,1
+51,6,Design Thinking beginners,0
+51,7,Design Thinking intermediate,1
+51,8,AI credentials,1
+51,9,Cloud credentials,1
+51,10,Cyber Security credentials,0
+51,11,Design Thinking credentials,1
+51,12,AI Careers,0
+51,13,Cloud Careers,0
+51,14,Cyber Security Careers,1
+52,0,AI beginners,0
+52,1,AI Intermediate,1
+52,2,Cloud beginners,1
+52,3,Cloud intermediate,1
+52,4,Cyber Security beginners,1
+52,5,Cyber Security intermediate,0
+52,6,Design Thinking beginners,1
+52,7,Design Thinking intermediate,0
+52,8,AI credentials,0
+52,9,Cloud credentials,0
+52,10,Cyber Security credentials,1
+52,11,Design Thinking credentials,0
+52,12,AI Careers,1
+52,13,Cloud Careers,0
+52,14,Cyber Security Careers,1
+53,0,AI beginners,1
+53,1,AI Intermediate,0
+53,2,Cloud beginners,0
+53,3,Cloud intermediate,1
+53,4,Cyber Security beginners,0
+53,5,Cyber Security intermediate,1
+53,6,Design Thinking beginners,1
+53,7,Design Thinking intermediate,0
+53,8,AI credentials,0
+53,9,Cloud credentials,0
+53,10,Cyber Security credentials,1
+53,11,Design Thinking credentials,0
+53,12,AI Careers,0
+53,13,Cloud Careers,0
+53,14,Cyber Security Careers,0
+54,0,AI beginners,0
+54,1,AI Intermediate,1
+54,2,Cloud beginners,0
+54,3,Cloud intermediate,1
+54,4,Cyber Security beginners,1
+54,5,Cyber Security intermediate,1
+54,6,Design Thinking beginners,1
+54,7,Design Thinking intermediate,0
+54,8,AI credentials,1
+54,9,Cloud credentials,0
+54,10,Cyber Security credentials,1
+54,11,Design Thinking credentials,1
+54,12,AI Careers,1
+54,13,Cloud Careers,0
+54,14,Cyber Security Careers,1
+55,0,AI beginners,1
+55,1,AI Intermediate,1
+55,2,Cloud beginners,1
+55,3,Cloud intermediate,1
+55,4,Cyber Security beginners,0
+55,5,Cyber Security intermediate,0
+55,6,Design Thinking beginners,0
+55,7,Design Thinking intermediate,0
+55,8,AI credentials,0
+55,9,Cloud credentials,1
+55,10,Cyber Security credentials,1
+55,11,Design Thinking credentials,0
+55,12,AI Careers,1
+55,13,Cloud Careers,1
+55,14,Cyber Security Careers,1
+56,0,AI beginners,0
+56,1,AI Intermediate,1
+56,2,Cloud beginners,0
+56,3,Cloud intermediate,0
+56,4,Cyber Security beginners,1
+56,5,Cyber Security intermediate,1
+56,6,Design Thinking beginners,0
+56,7,Design Thinking intermediate,1
+56,8,AI credentials,0
+56,9,Cloud credentials,0
+56,10,Cyber Security credentials,0
+56,11,Design Thinking credentials,0
+56,12,AI Careers,0
+56,13,Cloud Careers,0
+56,14,Cyber Security Careers,1
+57,0,AI beginners,1
+57,1,AI Intermediate,0
+57,2,Cloud beginners,1
+57,3,Cloud intermediate,0
+57,4,Cyber Security beginners,0
+57,5,Cyber Security intermediate,1
+57,6,Design Thinking beginners,1
+57,7,Design Thinking intermediate,0
+57,8,AI credentials,1
+57,9,Cloud credentials,1
+57,10,Cyber Security credentials,0
+57,11,Design Thinking credentials,1
+57,12,AI Careers,1
+57,13,Cloud Careers,1
+57,14,Cyber Security Careers,1
+58,0,AI beginners,1
+58,1,AI Intermediate,0
+58,2,Cloud beginners,0
+58,3,Cloud intermediate,1
+58,4,Cyber Security beginners,0
+58,5,Cyber Security intermediate,0
+58,6,Design Thinking beginners,1
+58,7,Design Thinking intermediate,1
+58,8,AI credentials,1
+58,9,Cloud credentials,0
+58,10,Cyber Security credentials,1
+58,11,Design Thinking credentials,0
+58,12,AI Careers,1
+58,13,Cloud Careers,0
+58,14,Cyber Security Careers,1
+59,0,AI beginners,1
+59,1,AI Intermediate,1
+59,2,Cloud beginners,0
+59,3,Cloud intermediate,0
+59,4,Cyber Security beginners,0
+59,5,Cyber Security intermediate,1
+59,6,Design Thinking beginners,0
+59,7,Design Thinking intermediate,1
+59,8,AI credentials,0
+59,9,Cloud credentials,0
+59,10,Cyber Security credentials,1
+59,11,Design Thinking credentials,1
+59,12,AI Careers,1
+59,13,Cloud Careers,1
+59,14,Cyber Security Careers,0
+60,0,AI beginners,1
+60,1,AI Intermediate,1
+60,2,Cloud beginners,1
+60,3,Cloud intermediate,1
+60,4,Cyber Security beginners,0
+60,5,Cyber Security intermediate,1
+60,6,Design Thinking beginners,1
+60,7,Design Thinking intermediate,1
+60,8,AI credentials,0
+60,9,Cloud credentials,1
+60,10,Cyber Security credentials,0
+60,11,Design Thinking credentials,0
+60,12,AI Careers,0
+60,13,Cloud Careers,1
+60,14,Cyber Security Careers,0
+61,0,AI beginners,1
+61,1,AI Intermediate,1
+61,2,Cloud beginners,0
+61,3,Cloud intermediate,1
+61,4,Cyber Security beginners,1
+61,5,Cyber Security intermediate,1
+61,6,Design Thinking beginners,1
+61,7,Design Thinking intermediate,0
+61,8,AI credentials,1
+61,9,Cloud credentials,0
+61,10,Cyber Security credentials,1
+61,11,Design Thinking credentials,0
+61,12,AI Careers,1
+61,13,Cloud Careers,0
+61,14,Cyber Security Careers,1
+62,0,AI beginners,1
+62,1,AI Intermediate,1
+62,2,Cloud beginners,0
+62,3,Cloud intermediate,0
+62,4,Cyber Security beginners,0
+62,5,Cyber Security intermediate,1
+62,6,Design Thinking beginners,0
+62,7,Design Thinking intermediate,0
+62,8,AI credentials,0
+62,9,Cloud credentials,0
+62,10,Cyber Security credentials,1
+62,11,Design Thinking credentials,1
+62,12,AI Careers,1
+62,13,Cloud Careers,0
+62,14,Cyber Security Careers,0
+63,0,AI beginners,1
+63,1,AI Intermediate,1
+63,2,Cloud beginners,0
+63,3,Cloud intermediate,1
+63,4,Cyber Security beginners,1
+63,5,Cyber Security intermediate,1
+63,6,Design Thinking beginners,1
+63,7,Design Thinking intermediate,0
+63,8,AI credentials,1
+63,9,Cloud credentials,1
+63,10,Cyber Security credentials,1
+63,11,Design Thinking credentials,0
+63,12,AI Careers,1
+63,13,Cloud Careers,0
+63,14,Cyber Security Careers,0
+64,0,AI beginners,0
+64,1,AI Intermediate,0
+64,2,Cloud beginners,1
+64,3,Cloud intermediate,0
+64,4,Cyber Security beginners,0
+64,5,Cyber Security intermediate,0
+64,6,Design Thinking beginners,1
+64,7,Design Thinking intermediate,1
+64,8,AI credentials,1
+64,9,Cloud credentials,0
+64,10,Cyber Security credentials,1
+64,11,Design Thinking credentials,1
+64,12,AI Careers,0
+64,13,Cloud Careers,1
+64,14,Cyber Security Careers,1
+65,0,AI beginners,0
+65,1,AI Intermediate,0
+65,2,Cloud beginners,0
+65,3,Cloud intermediate,0
+65,4,Cyber Security beginners,0
+65,5,Cyber Security intermediate,0
+65,6,Design Thinking beginners,1
+65,7,Design Thinking intermediate,1
+65,8,AI credentials,0
+65,9,Cloud credentials,0
+65,10,Cyber Security credentials,0
+65,11,Design Thinking credentials,1
+65,12,AI Careers,0
+65,13,Cloud Careers,0
+65,14,Cyber Security Careers,0
+66,0,AI beginners,0
+66,1,AI Intermediate,1
+66,2,Cloud beginners,1
+66,3,Cloud intermediate,1
+66,4,Cyber Security beginners,0
+66,5,Cyber Security intermediate,1
+66,6,Design Thinking beginners,0
+66,7,Design Thinking intermediate,1
+66,8,AI credentials,1
+66,9,Cloud credentials,1
+66,10,Cyber Security credentials,1
+66,11,Design Thinking credentials,1
+66,12,AI Careers,1
+66,13,Cloud Careers,1
+66,14,Cyber Security Careers,0
+67,0,AI beginners,0
+67,1,AI Intermediate,0
+67,2,Cloud beginners,1
+67,3,Cloud intermediate,1
+67,4,Cyber Security beginners,1
+67,5,Cyber Security intermediate,1
+67,6,Design Thinking beginners,0
+67,7,Design Thinking intermediate,1
+67,8,AI credentials,0
+67,9,Cloud credentials,0
+67,10,Cyber Security credentials,1
+67,11,Design Thinking credentials,0
+67,12,AI Careers,1
+67,13,Cloud Careers,0
+67,14,Cyber Security Careers,1
+68,0,AI beginners,1
+68,1,AI Intermediate,1
+68,2,Cloud beginners,0
+68,3,Cloud intermediate,0
+68,4,Cyber Security beginners,0
+68,5,Cyber Security intermediate,0
+68,6,Design Thinking beginners,0
+68,7,Design Thinking intermediate,1
+68,8,AI credentials,0
+68,9,Cloud credentials,1
+68,10,Cyber Security credentials,0
+68,11,Design Thinking credentials,1
+68,12,AI Careers,1
+68,13,Cloud Careers,0
+68,14,Cyber Security Careers,0
+69,0,AI beginners,0
+69,1,AI Intermediate,0
+69,2,Cloud beginners,0
+69,3,Cloud intermediate,1
+69,4,Cyber Security beginners,1
+69,5,Cyber Security intermediate,0
+69,6,Design Thinking beginners,0
+69,7,Design Thinking intermediate,0
+69,8,AI credentials,0
+69,9,Cloud credentials,0
+69,10,Cyber Security credentials,0
+69,11,Design Thinking credentials,1
+69,12,AI Careers,1
+69,13,Cloud Careers,1
+69,14,Cyber Security Careers,0
+70,0,AI beginners,0
+70,1,AI Intermediate,0
+70,2,Cloud beginners,1
+70,3,Cloud intermediate,0
+70,4,Cyber Security beginners,1
+70,5,Cyber Security intermediate,1
+70,6,Design Thinking beginners,1
+70,7,Design Thinking intermediate,0
+70,8,AI credentials,1
+70,9,Cloud credentials,0
+70,10,Cyber Security credentials,0
+70,11,Design Thinking credentials,1
+70,12,AI Careers,1
+70,13,Cloud Careers,1
+70,14,Cyber Security Careers,0
+71,0,AI beginners,1
+71,1,AI Intermediate,1
+71,2,Cloud beginners,0
+71,3,Cloud intermediate,1
+71,4,Cyber Security beginners,1
+71,5,Cyber Security intermediate,0
+71,6,Design Thinking beginners,0
+71,7,Design Thinking intermediate,1
+71,8,AI credentials,0
+71,9,Cloud credentials,1
+71,10,Cyber Security credentials,1
+71,11,Design Thinking credentials,1
+71,12,AI Careers,1
+71,13,Cloud Careers,0
+71,14,Cyber Security Careers,0
+72,0,AI beginners,1
+72,1,AI Intermediate,1
+72,2,Cloud beginners,1
+72,3,Cloud intermediate,1
+72,4,Cyber Security beginners,0
+72,5,Cyber Security intermediate,1
+72,6,Design Thinking beginners,1
+72,7,Design Thinking intermediate,1
+72,8,AI credentials,0
+72,9,Cloud credentials,1
+72,10,Cyber Security credentials,1
+72,11,Design Thinking credentials,1
+72,12,AI Careers,1
+72,13,Cloud Careers,0
+72,14,Cyber Security Careers,1
+73,0,AI beginners,0
+73,1,AI Intermediate,0
+73,2,Cloud beginners,1
+73,3,Cloud intermediate,0
+73,4,Cyber Security beginners,0
+73,5,Cyber Security intermediate,1
+73,6,Design Thinking beginners,1
+73,7,Design Thinking intermediate,0
+73,8,AI credentials,1
+73,9,Cloud credentials,0
+73,10,Cyber Security credentials,1
+73,11,Design Thinking credentials,1
+73,12,AI Careers,0
+73,13,Cloud Careers,1
+73,14,Cyber Security Careers,0
+74,0,AI beginners,1
+74,1,AI Intermediate,1
+74,2,Cloud beginners,0
+74,3,Cloud intermediate,0
+74,4,Cyber Security beginners,1
+74,5,Cyber Security intermediate,0
+74,6,Design Thinking beginners,1
+74,7,Design Thinking intermediate,0
+74,8,AI credentials,0
+74,9,Cloud credentials,0
+74,10,Cyber Security credentials,0
+74,11,Design Thinking credentials,1
+74,12,AI Careers,1
+74,13,Cloud Careers,0
+74,14,Cyber Security Careers,0
+75,0,AI beginners,1
+75,1,AI Intermediate,0
+75,2,Cloud beginners,1
+75,3,Cloud intermediate,0
+75,4,Cyber Security beginners,1
+75,5,Cyber Security intermediate,1
+75,6,Design Thinking beginners,0
+75,7,Design Thinking intermediate,1
+75,8,AI credentials,0
+75,9,Cloud credentials,0
+75,10,Cyber Security credentials,0
+75,11,Design Thinking credentials,0
+75,12,AI Careers,0
+75,13,Cloud Careers,1
+75,14,Cyber Security Careers,1
+76,0,AI beginners,1
+76,1,AI Intermediate,1
+76,2,Cloud beginners,0
+76,3,Cloud intermediate,0
+76,4,Cyber Security beginners,1
+76,5,Cyber Security intermediate,0
+76,6,Design Thinking beginners,0
+76,7,Design Thinking intermediate,0
+76,8,AI credentials,0
+76,9,Cloud credentials,0
+76,10,Cyber Security credentials,0
+76,11,Design Thinking credentials,1
+76,12,AI Careers,0
+76,13,Cloud Careers,0
+76,14,Cyber Security Careers,1
+77,0,AI beginners,1
+77,1,AI Intermediate,1
+77,2,Cloud beginners,0
+77,3,Cloud intermediate,0
+77,4,Cyber Security beginners,0
+77,5,Cyber Security intermediate,1
+77,6,Design Thinking beginners,0
+77,7,Design Thinking intermediate,1
+77,8,AI credentials,1
+77,9,Cloud credentials,0
+77,10,Cyber Security credentials,1
+77,11,Design Thinking credentials,1
+77,12,AI Careers,1
+77,13,Cloud Careers,1
+77,14,Cyber Security Careers,1
+78,0,AI beginners,1
+78,1,AI Intermediate,0
+78,2,Cloud beginners,1
+78,3,Cloud intermediate,0
+78,4,Cyber Security beginners,1
+78,5,Cyber Security intermediate,0
+78,6,Design Thinking beginners,1
+78,7,Design Thinking intermediate,1
+78,8,AI credentials,0
+78,9,Cloud credentials,1
+78,10,Cyber Security credentials,0
+78,11,Design Thinking credentials,1
+78,12,AI Careers,1
+78,13,Cloud Careers,0
+78,14,Cyber Security Careers,0
+79,0,AI beginners,0
+79,1,AI Intermediate,0
+79,2,Cloud beginners,0
+79,3,Cloud intermediate,1
+79,4,Cyber Security beginners,1
+79,5,Cyber Security intermediate,1
+79,6,Design Thinking beginners,0
+79,7,Design Thinking intermediate,0
+79,8,AI credentials,1
+79,9,Cloud credentials,1
+79,10,Cyber Security credentials,1
+79,11,Design Thinking credentials,0
+79,12,AI Careers,0
+79,13,Cloud Careers,0
+79,14,Cyber Security Careers,0
+80,0,AI beginners,1
+80,1,AI Intermediate,0
+80,2,Cloud beginners,1
+80,3,Cloud intermediate,0
+80,4,Cyber Security beginners,0
+80,5,Cyber Security intermediate,1
+80,6,Design Thinking beginners,0
+80,7,Design Thinking intermediate,1
+80,8,AI credentials,0
+80,9,Cloud credentials,1
+80,10,Cyber Security credentials,0
+80,11,Design Thinking credentials,1
+80,12,AI Careers,0
+80,13,Cloud Careers,0
+80,14,Cyber Security Careers,1
+81,0,AI beginners,1
+81,1,AI Intermediate,0
+81,2,Cloud beginners,1
+81,3,Cloud intermediate,0
+81,4,Cyber Security beginners,1
+81,5,Cyber Security intermediate,0
+81,6,Design Thinking beginners,0
+81,7,Design Thinking intermediate,0
+81,8,AI credentials,1
+81,9,Cloud credentials,1
+81,10,Cyber Security credentials,0
+81,11,Design Thinking credentials,0
+81,12,AI Careers,1
+81,13,Cloud Careers,1
+81,14,Cyber Security Careers,0
+82,0,AI beginners,1
+82,1,AI Intermediate,1
+82,2,Cloud beginners,1
+82,3,Cloud intermediate,1
+82,4,Cyber Security beginners,0
+82,5,Cyber Security intermediate,0
+82,6,Design Thinking beginners,1
+82,7,Design Thinking intermediate,1
+82,8,AI credentials,1
+82,9,Cloud credentials,1
+82,10,Cyber Security credentials,1
+82,11,Design Thinking credentials,1
+82,12,AI Careers,0
+82,13,Cloud Careers,1
+82,14,Cyber Security Careers,0
+83,0,AI beginners,1
+83,1,AI Intermediate,1
+83,2,Cloud beginners,1
+83,3,Cloud intermediate,1
+83,4,Cyber Security beginners,1
+83,5,Cyber Security intermediate,0
+83,6,Design Thinking beginners,1
+83,7,Design Thinking intermediate,1
+83,8,AI credentials,0
+83,9,Cloud credentials,0
+83,10,Cyber Security credentials,1
+83,11,Design Thinking credentials,0
+83,12,AI Careers,1
+83,13,Cloud Careers,1
+83,14,Cyber Security Careers,0
+84,0,AI beginners,0
+84,1,AI Intermediate,1
+84,2,Cloud beginners,1
+84,3,Cloud intermediate,0
+84,4,Cyber Security beginners,1
+84,5,Cyber Security intermediate,1
+84,6,Design Thinking beginners,1
+84,7,Design Thinking intermediate,0
+84,8,AI credentials,0
+84,9,Cloud credentials,0
+84,10,Cyber Security credentials,1
+84,11,Design Thinking credentials,1
+84,12,AI Careers,0
+84,13,Cloud Careers,1
+84,14,Cyber Security Careers,0
+85,0,AI beginners,1
+85,1,AI Intermediate,1
+85,2,Cloud beginners,0
+85,3,Cloud intermediate,1
+85,4,Cyber Security beginners,0
+85,5,Cyber Security intermediate,0
+85,6,Design Thinking beginners,0
+85,7,Design Thinking intermediate,1
+85,8,AI credentials,0
+85,9,Cloud credentials,1
+85,10,Cyber Security credentials,0
+85,11,Design Thinking credentials,1
+85,12,AI Careers,1
+85,13,Cloud Careers,1
+85,14,Cyber Security Careers,1
+86,0,AI beginners,1
+86,1,AI Intermediate,1
+86,2,Cloud beginners,0
+86,3,Cloud intermediate,1
+86,4,Cyber Security beginners,0
+86,5,Cyber Security intermediate,0
+86,6,Design Thinking beginners,1
+86,7,Design Thinking intermediate,0
+86,8,AI credentials,1
+86,9,Cloud credentials,1
+86,10,Cyber Security credentials,0
+86,11,Design Thinking credentials,0
+86,12,AI Careers,0
+86,13,Cloud Careers,0
+86,14,Cyber Security Careers,0
+87,0,AI beginners,1
+87,1,AI Intermediate,1
+87,2,Cloud beginners,0
+87,3,Cloud intermediate,0
+87,4,Cyber Security beginners,0
+87,5,Cyber Security intermediate,0
+87,6,Design Thinking beginners,1
+87,7,Design Thinking intermediate,1
+87,8,AI credentials,0
+87,9,Cloud credentials,0
+87,10,Cyber Security credentials,0
+87,11,Design Thinking credentials,1
+87,12,AI Careers,0
+87,13,Cloud Careers,1
+87,14,Cyber Security Careers,1
+88,0,AI beginners,1
+88,1,AI Intermediate,0
+88,2,Cloud beginners,0
+88,3,Cloud intermediate,1
+88,4,Cyber Security beginners,0
+88,5,Cyber Security intermediate,0
+88,6,Design Thinking beginners,0
+88,7,Design Thinking intermediate,1
+88,8,AI credentials,0
+88,9,Cloud credentials,1
+88,10,Cyber Security credentials,0
+88,11,Design Thinking credentials,1
+88,12,AI Careers,0
+88,13,Cloud Careers,1
+88,14,Cyber Security Careers,1
+89,0,AI beginners,0
+89,1,AI Intermediate,0
+89,2,Cloud beginners,1
+89,3,Cloud intermediate,1
+89,4,Cyber Security beginners,1
+89,5,Cyber Security intermediate,0
+89,6,Design Thinking beginners,0
+89,7,Design Thinking intermediate,1
+89,8,AI credentials,0
+89,9,Cloud credentials,1
+89,10,Cyber Security credentials,0
+89,11,Design Thinking credentials,0
+89,12,AI Careers,0
+89,13,Cloud Careers,1
+89,14,Cyber Security Careers,0
+90,0,AI beginners,0
+90,1,AI Intermediate,1
+90,2,Cloud beginners,0
+90,3,Cloud intermediate,0
+90,4,Cyber Security beginners,0
+90,5,Cyber Security intermediate,0
+90,6,Design Thinking beginners,0
+90,7,Design Thinking intermediate,0
+90,8,AI credentials,0
+90,9,Cloud credentials,1
+90,10,Cyber Security credentials,0
+90,11,Design Thinking credentials,1
+90,12,AI Careers,0
+90,13,Cloud Careers,1
+90,14,Cyber Security Careers,0
+91,0,AI beginners,0
+91,1,AI Intermediate,1
+91,2,Cloud beginners,1
+91,3,Cloud intermediate,1
+91,4,Cyber Security beginners,1
+91,5,Cyber Security intermediate,1
+91,6,Design Thinking beginners,1
+91,7,Design Thinking intermediate,0
+91,8,AI credentials,0
+91,9,Cloud credentials,1
+91,10,Cyber Security credentials,0
+91,11,Design Thinking credentials,1
+91,12,AI Careers,1
+91,13,Cloud Careers,0
+91,14,Cyber Security Careers,1
+92,0,AI beginners,0
+92,1,AI Intermediate,0
+92,2,Cloud beginners,1
+92,3,Cloud intermediate,1
+92,4,Cyber Security beginners,1
+92,5,Cyber Security intermediate,1
+92,6,Design Thinking beginners,1
+92,7,Design Thinking intermediate,0
+92,8,AI credentials,1
+92,9,Cloud credentials,0
+92,10,Cyber Security credentials,1
+92,11,Design Thinking credentials,1
+92,12,AI Careers,1
+92,13,Cloud Careers,0
+92,14,Cyber Security Careers,0
+93,0,AI beginners,1
+93,1,AI Intermediate,1
+93,2,Cloud beginners,1
+93,3,Cloud intermediate,0
+93,4,Cyber Security beginners,0
+93,5,Cyber Security intermediate,1
+93,6,Design Thinking beginners,0
+93,7,Design Thinking intermediate,1
+93,8,AI credentials,1
+93,9,Cloud credentials,0
+93,10,Cyber Security credentials,0
+93,11,Design Thinking credentials,0
+93,12,AI Careers,0
+93,13,Cloud Careers,1
+93,14,Cyber Security Careers,1
+94,0,AI beginners,1
+94,1,AI Intermediate,0
+94,2,Cloud beginners,0
+94,3,Cloud intermediate,0
+94,4,Cyber Security beginners,0
+94,5,Cyber Security intermediate,0
+94,6,Design Thinking beginners,1
+94,7,Design Thinking intermediate,0
+94,8,AI credentials,1
+94,9,Cloud credentials,1
+94,10,Cyber Security credentials,1
+94,11,Design Thinking credentials,0
+94,12,AI Careers,0
+94,13,Cloud Careers,0
+94,14,Cyber Security Careers,1
+95,0,AI beginners,1
+95,1,AI Intermediate,0
+95,2,Cloud beginners,0
+95,3,Cloud intermediate,0
+95,4,Cyber Security beginners,1
+95,5,Cyber Security intermediate,1
+95,6,Design Thinking beginners,1
+95,7,Design Thinking intermediate,0
+95,8,AI credentials,1
+95,9,Cloud credentials,0
+95,10,Cyber Security credentials,1
+95,11,Design Thinking credentials,1
+95,12,AI Careers,0
+95,13,Cloud Careers,1
+95,14,Cyber Security Careers,1
+96,0,AI beginners,0
+96,1,AI Intermediate,0
+96,2,Cloud beginners,1
+96,3,Cloud intermediate,0
+96,4,Cyber Security beginners,1
+96,5,Cyber Security intermediate,1
+96,6,Design Thinking beginners,1
+96,7,Design Thinking intermediate,0
+96,8,AI credentials,1
+96,9,Cloud credentials,0
+96,10,Cyber Security credentials,0
+96,11,Design Thinking credentials,0
+96,12,AI Careers,0
+96,13,Cloud Careers,1
+96,14,Cyber Security Careers,1
+97,0,AI beginners,1
+97,1,AI Intermediate,1
+97,2,Cloud beginners,0
+97,3,Cloud intermediate,1
+97,4,Cyber Security beginners,0
+97,5,Cyber Security intermediate,1
+97,6,Design Thinking beginners,1
+97,7,Design Thinking intermediate,1
+97,8,AI credentials,0
+97,9,Cloud credentials,0
+97,10,Cyber Security credentials,0
+97,11,Design Thinking credentials,1
+97,12,AI Careers,0
+97,13,Cloud Careers,0
+97,14,Cyber Security Careers,1
+98,0,AI beginners,1
+98,1,AI Intermediate,0
+98,2,Cloud beginners,0
+98,3,Cloud intermediate,0
+98,4,Cyber Security beginners,0
+98,5,Cyber Security intermediate,1
+98,6,Design Thinking beginners,0
+98,7,Design Thinking intermediate,0
+98,8,AI credentials,0
+98,9,Cloud credentials,1
+98,10,Cyber Security credentials,0
+98,11,Design Thinking credentials,1
+98,12,AI Careers,1
+98,13,Cloud Careers,1
+98,14,Cyber Security Careers,1
+99,0,AI beginners,1
+99,1,AI Intermediate,0
+99,2,Cloud beginners,0
+99,3,Cloud intermediate,1
+99,4,Cyber Security beginners,0
+99,5,Cyber Security intermediate,1
+99,6,Design Thinking beginners,0
+99,7,Design Thinking intermediate,1
+99,8,AI credentials,1
+99,9,Cloud credentials,1
+99,10,Cyber Security credentials,0
+99,11,Design Thinking credentials,0
+99,12,AI Careers,1
+99,13,Cloud Careers,1
+99,14,Cyber Security Careers,1
+100,0,AI beginners,1
+100,1,AI Intermediate,1
+100,2,Cloud beginners,0
+100,3,Cloud intermediate,0
+100,4,Cyber Security beginners,1
+100,5,Cyber Security intermediate,1
+100,6,Design Thinking beginners,1
+100,7,Design Thinking intermediate,0
+100,8,AI credentials,1
+100,9,Cloud credentials,1
+100,10,Cyber Security credentials,0
+100,11,Design Thinking credentials,1
+100,12,AI Careers,1
+100,13,Cloud Careers,0
+100,14,Cyber Security Careers,0
